@@ -2,7 +2,12 @@
 
 /projeto_interdisciplinar
 
-**.idea 
-**/idea
-**/vs
-**/vscode
+**/.idea 
+**/.idea
+**/.vs
+**/.vscode
+
+Atividades/C/.idea 
+Atividades/C/.idea
+Atividades/C/.vs
+Atividades/C/.vscode
